@@ -6,4 +6,4 @@
 
 ### JS Drum Kit
 
-![alt text]('./01-JS-Drum-Kit/screen01.gif')
+![alt text](./01-JS-Drum-Kit/screen01.gif)
