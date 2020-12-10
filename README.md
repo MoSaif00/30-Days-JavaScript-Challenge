@@ -7,3 +7,9 @@
 ### JS Drum Kit
 
 ![alt text](./01-JS-Drum-Kit/screen01.gif)
+
+## day 2
+
+### JS + CSS Clock
+
+![alt text](./01-JS-Drum-Kit/screen02.gif)
