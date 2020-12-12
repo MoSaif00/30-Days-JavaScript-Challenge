@@ -10,8 +10,8 @@ html {
 body {
   margin: 0;
   font-size: 2rem;
-  display: flex;
-  flex: 1;
+  /* display: flex;
+  flex: 1; */
   min-height: 100vh;
   align-items: center;
 }
@@ -21,7 +21,7 @@ body {
   height: 30rem;
   border: 20px solid white;
   border-radius: 50%;
-  margin: 50px auto;
+  margin: 20px auto;
   position: relative;
   padding: 2rem;
   box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.1), inset 0 0 0 3px #efefef,
@@ -49,4 +49,30 @@ body {
 
 .hour-hand {
   background-color: gray;
+}
+
+.digital-clock {
+  margin: 70px auto;
+  display: inline-block;
+}
+.digital-clock table {
+  border: solid 2px black;
+  padding: 10px;
+  border-radius: 10px;
+}
+.digital-clock table tr:nth-child(1) td:not(:first-child) {
+  border-bottom: 2px solid black;
+  padding: 0px 10px 10px 10px;
+}
+.digital-clock table tr:nth-child(2) td {
+  padding-top: 15px;
+}
+
+.digital-hour-hand {
+  color: gray;
+}
+.digital-meridiem {
+  margin-top: 50px;
+  padding-right: 10px;
+  color: blue;
 }

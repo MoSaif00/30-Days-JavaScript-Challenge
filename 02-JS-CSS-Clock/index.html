@@ -6,19 +6,30 @@
 
     <title>JSS-CSS Clock</title>
     <link rel="stylesheet" href="style.css" />
-    n
   </head>
   <body>
+    <div class="digital-clock">
+      <table>
+        <tr>
+          <td rowspan="2">
+            <div class="digital-meridiem"></div>
+          </td>
+          <td>Hours</td>
+          <td>Minutes</td>
+          <td>Seconds</td>
+        </tr>
+        <tr>
+          <td><div class="digital-hour-hand"></div></td>
+          <td><div class="digital-min-hand"></div></td>
+          <td><div class="digital-second-hand"></div></td>
+        </tr>
+      </table>
+    </div>
     <div class="clock">
       <div class="clock-face">
         <div class="hand hour-hand"></div>
         <div class="hand min-hand"></div>
         <div class="hand second-hand"></div>
-      </div>
-      <div class="digital-clock">
-        <div class="digital-hour-hand"></div>
-        <div class="digital-min-hand"></div>
-        <div class="digital-second-hand"></div>
       </div>
     </div>
 

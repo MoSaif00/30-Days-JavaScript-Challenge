@@ -1,6 +1,10 @@
 const secondHand = document.querySelector('.second-hand');
 const minuteHand = document.querySelector('.min-hand');
 const hourHand = document.querySelector('.hour-hand');
+const digitalSecondHand = document.querySelector('.digital-second-hand');
+const digitalMinuteHand = document.querySelector('.digital-min-hand');
+const digitalHourHand = document.querySelector('.digital-hour-hand');
+const meridiem = document.querySelector('.digital-meridiem');
 
 function setDate() {
   const now = new Date();
@@ -13,5 +17,13 @@ function setDate() {
   const hour = now.getHours();
   const hoursDegrees = (hour / 12) * 360 + 90;
   hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
+  digitalSecondHand.innerText = seconds;
+  digitalMinuteHand.innerText = minutes;
+  digitalHourHand.innerText = hour;
+  if (hour >= 12) {
+    meridiem.innerText = 'pm';
+  } else {
+    meridiem.innerText = 'am';
+  }
 }
 setInterval(setDate, 1000);
