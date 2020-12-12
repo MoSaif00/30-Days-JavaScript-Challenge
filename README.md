@@ -13,3 +13,9 @@
 ### JS + CSS Clock
 
 ![alt text](./02-JS-CSS-Clock/screen02.gif)
+
+## day 3
+
+### Update CSS Variables with JS
+
+![alt text](./03-CSS-Variables/screen03.gif)
