@@ -12,4 +12,4 @@
 
 ### JS + CSS Clock
 
-![alt text](./01-JS-Drum-Kit/screen02.gif)
+![alt text](./02-JS-CSS-Clock/screen02.gif)
