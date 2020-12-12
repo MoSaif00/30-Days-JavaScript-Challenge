@@ -19,3 +19,9 @@
 ### Update CSS Variables with JS
 
 ![alt text](./03-CSS-Variables/screen03.gif)
+
+## day 4
+
+### Array Cardio (two days)
+
+![alt text](./04-Array-Cardio/screen04.gif)
