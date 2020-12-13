@@ -22,6 +22,12 @@
 
 ## day 4
 
-### Array Cardio (two days)
+### Array Cardio (day one)
 
-![alt text](./04-Array-Cardio/screen04.gif)
+![alt text](./04-Array-Cardio-01/screen04.gif)
+
+## day 4
+
+### Flex-Panels-Image-Gallery
+
+![alt text](./05-Flex-Panels-Image-Gallery/screen05.gif)
