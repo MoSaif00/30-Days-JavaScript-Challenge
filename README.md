@@ -31,3 +31,10 @@
 ### Flex-Panels-Image-Gallery
 
 ![alt text](./05-Flex-Panels-Image-Gallery/screen05.gif)
+06-Ajax-Tyep-Ahead
+
+## day 6
+
+### Ajax-Tyep-Ahead
+
+![alt text](./06-Ajax-Tyep-Ahead/screen06.gif)
