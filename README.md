@@ -38,3 +38,9 @@
 ### Ajax-Tyep-Ahead
 
 ![alt text](./06-Ajax-Tyep-Ahead/screen06.gif)
+
+## day 7
+
+### Array Cardio (day two)
+
+![alt text](./07-Array-Cardio-02/screen07.gif)
