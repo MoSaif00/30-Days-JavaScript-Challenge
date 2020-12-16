@@ -43,4 +43,8 @@
 
 ### Array Cardio (day two)
 
-![alt text](./07-Array-Cardio-02/screen07.gif)
+## day 8
+
+### Fun with HTML5 Canvas
+
+![alt text](./08-Fun-With-HTML5-Canvas/screen08.gif)
