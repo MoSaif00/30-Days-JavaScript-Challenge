@@ -1,6 +1,6 @@
 # 30-Days-JavaScript-Challenge
 
-Here is practicing [30 Days Of JavaScript](https://javascript30.com/), referred to WebBos
+In this Repository i just practiced [30 Days Of JavaScript](https://javascript30.com/), I got to grasp some new information and tricks to use on JavaScript.
 
 ## day 1
 
