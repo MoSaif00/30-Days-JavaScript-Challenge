@@ -1,6 +1,6 @@
 # 30-Days-JavaScript-Challenge
 
-[30 Days Of JavaScript](https://javascript30.com/)
+Here is practicing [30 Days Of JavaScript](https://javascript30.com/), referred to WebBos
 
 ## day 1
 
