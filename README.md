@@ -54,3 +54,9 @@ In this Repository i just practiced [30 Days Of JavaScript](https://javascript30
 ### Dev Tools
 
 ![alt text](./09-Dev-Tools/screen09.gif)
+
+## day 10
+
+### Hold Shift And Check Checkboxes
+
+![alt text](./10-Hold-Shift-And-Check-Checkboxes/screen10.gif)
