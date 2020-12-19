@@ -58,3 +58,9 @@ In this Repository i just practiced [30 Days Of JavaScript](https://javascript30
 ### Hold Shift And Check Checkboxes
 
 ![alt text](./10-Hold-Shift-And-Check-Checkboxes/screen10.gif)
+
+## day 11
+
+### Custom HTML5 Video Player
+
+![alt text](./11-HTML5-Video-Player/screen11.gif)
