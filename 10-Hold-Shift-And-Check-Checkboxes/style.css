@@ -1,12 +1,12 @@
 html {
   font-family: sans-serif;
-  background: #ffc600;
+  background: #342432;
 }
 
 .inbox {
   max-width: 400px;
   margin: 50px auto;
-  background: white;
+  background: rgb(162, 161, 221);
   border-radius: 5px;
   box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
 }
@@ -22,7 +22,7 @@ html {
 }
 
 input:checked + p {
-  background: #f9f9f9;
+  background: #c49a9a;
   text-decoration: line-through;
 }
 
