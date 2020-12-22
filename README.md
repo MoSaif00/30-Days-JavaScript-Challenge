@@ -69,8 +69,14 @@ In this Repository i just practiced [30 Days Of JavaScript](https://javascript30
 
 ### Key Detection
 
-## day 12
+## day 13
 
 ### Slide in on Scroll
 
 ![alt text](./13-Slide-In-On-Scroll/screen13.gif)
+
+## day 14
+
+### JavaScript References VS Copying
+
+![alt text](./14-JavaScript-References-Vs-Copying/screen14.gif)
