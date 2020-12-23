@@ -79,4 +79,8 @@ In this Repository i just practiced [30 Days Of JavaScript](https://javascript30
 
 ### JavaScript References VS Copying
 
-![alt text](./14-JavaScript-References-Vs-Copying/screen14.gif)
+## day 15
+
+### LocalStorage
+
+![alt text](./15-LocalStorage/screen15.gif)
