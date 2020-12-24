@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background: url('oh-la-la.jpeg') center no-repeat;
+  background: url('./bg.jpg') center no-repeat;
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -67,7 +67,7 @@ h2 {
 }
 
 .plates input:checked + label:before {
-  content: '🌮';
+  content: '';
 }
 
 .add-items {
@@ -78,4 +78,9 @@ h2 {
   padding: 10px;
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.copyright {
+  position: absolute;
+  bottom: 0;
 }
