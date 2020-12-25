@@ -67,7 +67,8 @@ h2 {
 }
 
 .plates input:checked + label:before {
-  content: '';
+  content: '\2713';
+  /* content: '\270D'; */
 }
 
 .add-items {

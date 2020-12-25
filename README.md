@@ -1,6 +1,6 @@
 # 30-Days-JavaScript-Challenge
 
-In this Repository i just practiced [30 Days Of JavaScript](https://javascript30.com/), I got to grasp some new information and tricks to use on JavaScript.
+This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript30.com/) by Wes Bos without any frameworks, no compilers, no boilerplate, and no libraries.
 
 ## day 1
 
@@ -84,3 +84,9 @@ In this Repository i just practiced [30 Days Of JavaScript](https://javascript30
 ### LocalStorage
 
 ![alt text](./15-LocalStorage/screen15.gif)
+
+## day 16
+
+### Mouse Move Shadow
+
+![alt text](./16-Mouse-Move-Shadow/screen16.gif)
