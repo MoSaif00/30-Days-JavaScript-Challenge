@@ -17,6 +17,13 @@ function setDate() {
   const hour = now.getHours();
   const hoursDegrees = (hour / 12) * 360 + 90;
   hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
+
+  if (secondsDegrees === 90) secondHand.style.transition = 'all 0s';
+  else secondHand.style.transition = 'all 0.05s';
+
+  if (minutesDegrees === 90) minuteHand.style.transition = 'all 0s';
+  else minuteHand.style.transition = 'all 0.1s';
+
   digitalSecondHand.innerText = seconds;
   digitalMinuteHand.innerText = minutes;
   digitalHourHand.innerText = hour;
