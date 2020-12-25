@@ -90,3 +90,9 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 ### Mouse Move Shadow
 
 ![alt text](./16-Mouse-Move-Shadow/screen16.gif)
+
+## day 17
+
+### Sort Without Articles
+
+![alt text](./17-Sort-Without-Articles/screen17.gif)
