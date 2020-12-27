@@ -96,3 +96,9 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 ### Sort Without Articles
 
 ![alt text](./17-Sort-Without-Articles/screen17.gif)
+
+## day 18
+
+### Adding Up Times With Reduce
+
+![alt text](./18-Adding-Up-Times-With-Reduce/screen18.gif)#
