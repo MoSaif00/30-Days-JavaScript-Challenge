@@ -10,7 +10,7 @@ html {
 
 html {
   font-size: 10px;
-  background: #ffc600;
+  background: gray;
 }
 
 .photobooth {
@@ -19,7 +19,21 @@ html {
   margin: 2rem auto;
   border-radius: 2px;
 }
-
+.controls {
+  padding: 30px;
+}
+.controls button {
+  margin: 0;
+  position: relative;
+  left: 50%;
+  border: blue 2px solid;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: burlywood;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  margin-bottom: 20px;
+}
 /*clearfix*/
 .photobooth:after {
   content: '';
