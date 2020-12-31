@@ -114,3 +114,9 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 ### Speech Detection
 
 ![alt text](./20-Speech-Detection/screen20.gif)
+
+## day 21
+
+### Geolocation
+
+![alt text](./21-Geolocation/screen21.gif)
