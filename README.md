@@ -101,16 +101,16 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 
 ### Adding Up Times With Reduce
 
-![alt text](./18-Adding-Up-Times-With-Reduce/screen18.gif)#
+![alt text](./18-Adding-Up-Times-With-Reduce/screen18.gif)
 
 ## day 19
 
 ### UnReal WebCam Fun
 
-![alt text](./19-Unreal-WebCam-Fun/screen19.gif)#
+![alt text](./19-Unreal-WebCam-Fun/screen19.gif)
 
 ## day 20
 
 ### Speech Detection
 
-![alt text](./20-Speech-Detection/screen20.gif)#
+![alt text](./20-Speech-Detection/screen20.gif)
