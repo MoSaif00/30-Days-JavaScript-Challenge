@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: #ffc600;
+  background: #6085ca;
   font-family: 'helvetica neue';
   font-weight: 200;
   font-size: 20px;
@@ -41,5 +41,5 @@ p {
   left: 30px;
   bottom: 0;
   border: 1px solid;
-  border-color: transparent #efe4e4;
+  border-color: transparent #e9e78d;
 }
