@@ -108,3 +108,9 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 ### UnReal WebCam Fun
 
 ![alt text](./19-Unreal-WebCam-Fun/screen19.gif)#
+
+## day 20
+
+### Speech Detection
+
+![alt text](./20-Speech-Detection/screen20.gif)#
