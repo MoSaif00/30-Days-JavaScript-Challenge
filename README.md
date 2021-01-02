@@ -119,4 +119,8 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 
 ### Geolocation
 
-![alt text](./21-Geolocation/screen21.gif)
+## day 22
+
+### Follow Along Link Highlighter
+
+![alt text](./22-Follow-Along-Link-Highlighter/screen22.gif)
