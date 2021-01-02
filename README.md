@@ -124,3 +124,9 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 ### Follow Along Link Highlighter
 
 ![alt text](./22-Follow-Along-Link-Highlighter/screen22.gif)
+
+## day 23
+
+### Speech Synthesis
+
+![alt text](./23-Speech-Synthesis/screen23.gif)
