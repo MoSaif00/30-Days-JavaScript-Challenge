@@ -130,3 +130,9 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 ### Speech Synthesis
 
 ![alt text](./23-Speech-Synthesis/screen23.gif)
+
+## day 24
+
+### Sticky Nav
+
+![alt text](./24-Sticky-Nav/screen24.gif)
