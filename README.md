@@ -141,4 +141,8 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 
 ### Event Capture, Propagation, Bubbling and Once
 
-![alt text](./25-EventCapture-Propagation-BubblingAndOnce/screen25.gif)
+## day 26
+
+### Stripe Follow Along Nav
+
+![alt text](./26-Stripe-Follow-Along-Nav/screen25.gif)
