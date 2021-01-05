@@ -136,3 +136,9 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 ### Sticky Nav
 
 ![alt text](./24-Sticky-Nav/screen24.gif)
+
+## day 25
+
+### Event Capture, Propagation, Bubbling and Once
+
+![alt text](./25-EventCapture-Propagation-BubblingAndOnce/screen25.gif)
