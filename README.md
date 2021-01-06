@@ -145,4 +145,10 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 
 ### Stripe Follow Along Nav
 
-![alt text](./26-Stripe-Follow-Along-Nav/screen25.gif)
+![alt text](./26-Stripe-Follow-Along-Nav/screen26.gif)
+
+## day 27
+
+### Click and Drag
+
+![alt text](./27-Click-And-Drag/screen27.gif)
