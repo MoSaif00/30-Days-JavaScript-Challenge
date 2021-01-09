@@ -152,3 +152,9 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 ### Click and Drag
 
 ![alt text](./27-Click-And-Drag/screen27.gif)
+
+## day 28
+
+### Video Speed Controller
+
+![alt text](./28-Video-Speed-Controller/screen28.gif)
