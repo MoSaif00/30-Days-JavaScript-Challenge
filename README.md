@@ -158,3 +158,15 @@ This is a JavaScript practice with JavaScript30[JavaScript30](https://javascript
 ### Video Speed Controller
 
 ![alt text](./28-Video-Speed-Controller/screen28.gif)
+
+## day 29
+
+### Countdown Timer
+
+![alt text](./29-Countdown-Timer/screen29.gif)
+
+## day 30
+
+### Whack A Mole Game
+
+![alt text](./30-Whack-A-Mole-Game/screen30.gif)
