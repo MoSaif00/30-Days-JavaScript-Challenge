@@ -82,3 +82,12 @@ body {
   font-size: 4rem;
   color: white;
 }
+
+.time-heading {
+  text-decoration: underline;
+  color: white;
+  text-transform: uppercase;
+  font-size: 25px;
+  position: absolute;
+  top: 140px;
+}
