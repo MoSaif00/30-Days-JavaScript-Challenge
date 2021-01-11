@@ -19,7 +19,7 @@ function randomHole(holes) {
 }
 
 function peep() {
-  const time = randomTime(300, 1100);
+  const time = randomTime(100, 1000);
   const hole = randomHole(holes);
   hole.classList.add('up');
   setTimeout(() => {
@@ -39,7 +39,7 @@ startbtn.addEventListener('click', function () {
   timeUp = false;
   score = 0;
   peep();
-  setTimeout(() => (timeUp = true), 15000);
+  setTimeout(() => (timeUp = true), 20000);
 });
 
 moles.forEach((mole) => mole.addEventListener('click', bonk));
