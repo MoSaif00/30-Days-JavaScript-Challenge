@@ -9,6 +9,9 @@ body {
   position: relative;
   width: 100%;
 }
+.main-logo {
+  margin-right: 10px;
+}
 .image-gif {
   opacity: 1;
   display: block;
