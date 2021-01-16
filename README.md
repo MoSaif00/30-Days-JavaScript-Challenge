@@ -2,7 +2,12 @@
 
 This is a JavaScript practice with [JavaScript30](https://javascript30.com/) by Wes Bos without any frameworks, no compilers, no boilerplate, and no libraries.
 
-## day 1
+##
+
+| No. | Title       | Demo Link | GitHub Link |
+| --- | ----------- | --------- | ----------- |
+| #01 | JS Drum Kit | [Demo]()  | [Demo]()    |
+| #01 | JS Drum Kit | [Demo]()  | [Demo]()    |
 
 ### JS Drum Kit
 
