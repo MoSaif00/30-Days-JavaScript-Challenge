@@ -10,7 +10,7 @@
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+![alt text](./screen01.gif)
 
 ## Features & Usage
 
