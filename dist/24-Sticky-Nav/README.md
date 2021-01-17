@@ -1,6 +1,6 @@
-## day 1
+## day
 
-<h1 align="center"> JS Drum Kit </h1>
+<h1 align="center">  </h1>
 
 >
 

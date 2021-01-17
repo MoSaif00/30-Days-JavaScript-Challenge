@@ -40,3 +40,11 @@ This is a JavaScript practice with [JavaScript30](https://javascript30.com/) by 
 | #28 | Video Speed Controller                        | [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/28-Video-Speed-Controller/index.html)                   | [GitHub](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/tree/main/dist/28-Video-Speed-Controller)                   |
 | #29 | Countdown Timer                               | [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/29-Countdown-Timer/index.html)                          | [GitHub](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/tree/main/dist/29-Countdown-Timer)                          |
 | #30 | Whack A Mole Game                             | [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/30-Whack-A-Mole-Game/index.html)                        | [GitHub](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/tree/main/dist/30-Whack-A-Mole-Game)                        |
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/BookMarker-App/issues).
+
+## Show your support
+
+Give a ⭐️ if you like the project!
