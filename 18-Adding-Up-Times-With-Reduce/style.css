@@ -1,0 +1,15 @@
+ul {
+  border: solid blue 2px;
+  margin: 20px;
+  border-radius: 20px;
+  background-color: rgb(207, 204, 204);
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+ul li {
+  padding: 10px;
+  color: blue;
+}
