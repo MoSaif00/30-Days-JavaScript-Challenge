@@ -1,21 +1,21 @@
-## day
+## day 05
 
-<h1 align="center">  </h1>
+<h1 align="center"> Flex Panels Image Gallery </h1>
 
->
-
-##
-
-### ✨ [Demo]()
+> I learned how to use CSS flex .
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/05-Flex-Panels-Image-Gallery/)
+
+##
+
+![alt text](./screen05.gif)
 
 ## Features & Usage
 
 ```sh
--
+- CSS flex
 -
 ```
 

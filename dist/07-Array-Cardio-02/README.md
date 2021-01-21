@@ -1,22 +1,26 @@
-## day
+## day 07
 
-<h1 align="center">  </h1>
+<h1 align="center"> Array Cardio (day two) </h1>
 
->
-
-##
-
-### ✨ [Demo]()
+> I learned to use array functions : some , every, find, splice and slice ,
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/07-Array-Cardio-02/index.html)
+
+##
+
+![alt text](./screen07.gif)
 
 ## Features & Usage
 
 ```sh
--
--
+- some()
+- every()
+- find ()
+- findIndex()
+- splice()
+- slice()
 ```
 
 ## 🤝 Contributing

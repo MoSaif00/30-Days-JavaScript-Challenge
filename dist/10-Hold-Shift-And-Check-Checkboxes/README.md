@@ -1,22 +1,21 @@
-## day
+## day 10
 
-<h1 align="center">  </h1>
+<h1 align="center"> Hold Shift And Check Checkboxes </h1>
 
->
-
-##
-
-### ✨ [Demo]()
+> Learned how to select the elements by the type key.
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/10-Hold-Shift-And-Check-Checkboxes/index.html)
+
+##
+
+![alt text](./screen10.gif)
 
 ## Features & Usage
 
 ```sh
--
--
+- you can select many points by holding shift key
 ```
 
 ## 🤝 Contributing

@@ -1,22 +1,23 @@
-## day
+## day 06
 
-<h1 align="center">  </h1>
+<h1 align="center"> Ajax Type Ahead </h1>
 
->
-
-##
-
-### ✨ [Demo]()
+> In this project I used event Listeners, Promises, Array functions and match() and replace() of RegExp.
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/06-Ajax-Tyep-Ahead/index.html)
+
+##
+
+![alt text](./screen06.gif)
 
 ## Features & Usage
 
 ```sh
--
--
+- used event listener.
+- used fetch API
+- used RegExp
 ```
 
 ## 🤝 Contributing

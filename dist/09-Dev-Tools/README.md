@@ -1,22 +1,23 @@
-## day
+## day 09
 
-<h1 align="center">  </h1>
+<h1 align="center"> DevTool </h1>
 
->
-
-##
-
-### ✨ [Demo]()
+> I learned some of Console tricks and how to clear the console .
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/09-Dev-Tools/index.html)
+
+##
+
+![alt text](./screen09.gif)
 
 ## Features & Usage
 
 ```sh
--
--
+- Console tricks
+- clear the console panel
+- use console.table
 ```
 
 ## 🤝 Contributing
