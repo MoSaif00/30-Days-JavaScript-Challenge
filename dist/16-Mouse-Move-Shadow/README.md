@@ -2,7 +2,7 @@
 
 <h1 align="center"> Mouse Move Shadow </h1>
 
->
+> I grasped the use of `offset`
 
 ##
 
@@ -11,13 +11,6 @@
 ##
 
 ![alt text](./screen16.gif)
-
-## Features & Usage
-
-```sh
--
--
-```
 
 ## 🤝 Contributing
 

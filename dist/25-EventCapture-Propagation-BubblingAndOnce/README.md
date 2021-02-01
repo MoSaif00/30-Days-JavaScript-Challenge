@@ -1,24 +1,15 @@
-## day
+## day 25
 
-<h1 align="center">  </h1>
-
->
+<h1 align="center"> Event Capture, Propagation, Bubbling and Once </h1>
 
 ##
 
-### ✨ [Demo]()
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/25-EventCapture-Propagation-BubblingAndOnce/index.html)
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
-
-## Features & Usage
-
-```sh
--
--
-```
+![alt text](./screen25.gif)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/BookMarker-App/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/issues).

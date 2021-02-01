@@ -1,24 +1,17 @@
-## day
+## day 17
 
-<h1 align="center">  </h1>
+<h1 align="center"> Sort Without Articles </h1>
 
->
-
-##
-
-### ✨ [Demo]()
+> Ilearned how to sort data without article, by replacing the the article.
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/17-Sort-Without-Articles/index.html)
 
-## Features & Usage
+##
 
-```sh
--
--
-```
+![alt text](./screen17.gif)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/BookMarker-App/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/issues).
