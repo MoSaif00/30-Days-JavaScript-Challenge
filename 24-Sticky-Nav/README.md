@@ -1,24 +1,21 @@
-## day
+## day 24
 
-<h1 align="center">  </h1>
-
->
+<h1 align="center"> Sticky Nav </h1>
 
 ##
 
-### ✨ [Demo]()
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/24-Sticky-Nav/index.html#)
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+![alt text](./screen24.gif)
 
 ## Features & Usage
 
 ```sh
--
--
+- nice and smooth navbar
 ```
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/BookMarker-App/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/issues).

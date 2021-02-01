@@ -1,24 +1,19 @@
-## day
+## day 14
 
-<h1 align="center">  </h1>
+<h1 align="center"> JavaScript References VS Copying </h1>
 
->
-
-##
-
-### ✨ [Demo]()
+> I learned about Arrays references and copy and it was kind of refreshing to concept as well with Object references and copy
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/14-JavaScript-References-Vs-Copying/index.html)
+
+##
+
+![alt text](./screen14.gif)
 
 ## Features & Usage
 
-```sh
--
--
-```
-
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/BookMarker-App/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/issues).

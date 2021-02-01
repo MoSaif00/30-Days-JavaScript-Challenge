@@ -1,24 +1,17 @@
-## day
+## day 30
 
-<h1 align="center">  </h1>
+<h1 align="center"> Whack A Mole Game </h1>
 
->
-
-##
-
-### ✨ [Demo]()
+> simple funny challenging game
 
 ##
 
-![alt text](./01-JS-Drum-Kit/screen01.gif)
+### ✨ [Demo](https://mosaif00.github.io/30-Days-JavaScript-Challenge/30-Whack-A-Mole-Game/index.html)
 
-## Features & Usage
+##
 
-```sh
--
--
-```
+![alt text](./screen30.gif)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/BookMarker-App/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MoSaif00/30-Days-JavaScript-Challenge/issues).
